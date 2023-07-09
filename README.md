@@ -62,8 +62,9 @@ To run the Image Decoding program, make sure you have the following installed:
       - $\textbf{Important}$: When you flag a cell correctly, the corresponding part of the image will be decoded, revealing a portion of the hidden message. However, if you flag a cell incorrectly, that part of the image won't decode, emphasizing that blindly flagging all cells won't help you uncover the entire secret message.
 
 <div align="center">
-  <img src="https://github.com/Amirrezahmi/Image-Decoding/assets/89692207/2aac795e-115f-4598-9f8c-228cf8b4f19e" alt="20230617_123525_0000" width="600" />
+  <img src="https://github.com/Amirrezahmi/Image-Decoding/assets/89692207/1aa8a4bf-9085-4d23-9bbc-d465947704e3" alt="20230617_123525_0000" width="600" />
 </div>
+
 
 
    3. Decoding Strategy: Combine the information from the revealed numbers and your flagged cells to make informed decisions.
