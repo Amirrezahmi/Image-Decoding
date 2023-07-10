@@ -49,7 +49,7 @@ To run the Image Decoding program, make sure you have the following installed:
      ```bash
    python main.py
      ```
-5. Select your image or press "Default Picture" to begin the decoding process.
+5. Select your image or press "Default Picture" button to begin the decoding process.
 
 ## How to Play
 
